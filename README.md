@@ -4,4 +4,3 @@ This project trains a model to classify images of cats and dogs, because who doe
 ### Overview 🎉
 Trained on a variety of cat and dog images.
 Validated using testing data to ensure it can accurately tell the difference between whiskers and wagging tails! 
-
